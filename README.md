@@ -36,9 +36,9 @@ Inspection on the dataset's structure, summary statistics, cleanliness, and dime
 3. Most aircraft end up with substantial damages after an accident/incident
 ![Aircraft Damage Levels](Visualization_Images/damage_level.png)
 
-- The Jupyter Notebook contains these visualizations among others together with the insights stakeholders can deduce. Also, these diagrams are clearer in the notebook so I highly suggest opening it. 
+- The Jupyter Notebook contains these visualizations among others, together with insights that can help stakeholders make data-driven decisions. Also, note that visualizations in the notebook are clearer, so I highly suggest opening it. 
 
-A [Tableau Dashboard](https://public.tableau.com/app/profile/calmar.isoe2841/viz/AircraftRisksAnalysisDashboard/AircraftRisksAnalysisDashboard?publish=yes) with a summary of some of our key findings is also included in this analysis.
+A [Tableau Dashboard](https://public.tableau.com/app/profile/calmar.isoe2841/viz/AircraftRisksAnalysisDashboard/AircraftRisksAnalysisDashboard?publish=yes) with a summary of some of our key findings is also here.
 
 
 ## Conclusion
@@ -46,10 +46,10 @@ This analysis reveals the risks involved in the aviation industry. The most acci
 This analysis leads to three main recommendations; 
 - Consider purchasing and operating low-risk aircraft models, as they have consistently lower accident rates. This approach will not only minimize operational risks but will also enhance the company’s reputation for safety.
 - Take advantage of the downward trend in aviation accidents. With the steady decline in aviation accidents over the years, you can capitalize on this during marketing to attract investors as well as customers.
-- Invest in aircraft suitable for flight purposes with a low-risk profile. Cautiously evaluate whether to enter a specific segment before purchasing aircraft suitable for that sector. For instance, sectors like ferry, aerial observation, and public flying record lower incident rates and may be a safer and more favorable investment opportunity.
+- Invest in aircraft suitable for flight purposes with a low-risk profile. Cautiously evaluate whether to enter a specific sector (e.g. private or commercial) before purchasing aircraft suitable for that sector. For instance, sectors like ferry, aerial observation, and public flying record lower incident rates and may be a safer and more favorable investment opportunity.
 
 
 ## Next Steps
 - To conduct a deeper analysis on the root causes behind accidents and incidents in certain aircraft make and models. Explore further to determine which manufacturers produce the most incident-prone models, to aid in informed procurement decisions.
-- To conduct further analysis to understand frequency vs. risk, especially for models like Cessna which appear in both low-risk aircrafts and in aircrafts with the most recorderd cases. 
-Find out and prove if this paradox is indeed simply because these models are flown more frequently compared to other models and not due to inherent safety flaws
+- To conduct further analysis to understand frequency vs. risk, especially for models like Cessna which appear in both low-risk aircrafts and in aircrafts with the most recorded accident/incident cases. 
+Find out and prove if this paradox is indeed simply because these models are flown more frequently compared to other models and not due to inherent safety flaws.
