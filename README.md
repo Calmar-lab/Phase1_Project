@@ -27,7 +27,8 @@ Inspection on the dataset's structure, summary statistics, cleanliness, and dime
 
 
 ## Key Findings
-Cessna, Piper, and Boeing are some of the most common low-risk aircrafts
+Cessna, Piper, and Boeing are some of the most common low-risk aircraft.
+![Low-Risk Aircrafts](low-risk aircrafts.png)
 
 
 
