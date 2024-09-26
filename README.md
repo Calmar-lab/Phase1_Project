@@ -31,10 +31,10 @@ Inspection on the dataset's structure, summary statistics, cleanliness, and dime
 ![Low-Risk Aircrafts](Visualization_Images/low_risk_aircrafts.png)
 
 2. There has been a steady decrease in aviation accidents over the years
-![Trend of Aviation Accidents Over the Years](trend_of_accidents.png)
+![Trend of Aviation Accidents Over the Years](Visualization_Images/trend_of_accidents.png)
 
 3. Most aircraft end up with substantial damages after an accident/incident
-![Aircraft Damage Levels](damage_level.png)
+![Aircraft Damage Levels](Visualization_Images/damage_level.png)
 
 - The Jupyter Notebook contains these visualizations among others together with the insights stakeholders can deduce. Also, these diagrams are clearer in the notebook so I highly suggest opening it. 
 
