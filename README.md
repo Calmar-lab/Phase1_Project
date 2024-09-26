@@ -1,4 +1,4 @@
-# AIRCARFT RISKS ANALYSIS PROJECT
+# AIRCRAFT RISKS ANALYSIS PROJECT
 
 ## Overview
 This project identifies and analyzes critical risk factors within the aviation industry to support stakeholders in making informed decisions before entering the market. The insights derived from this project will guide the business in minimizing risks, ensuring 
@@ -28,7 +28,7 @@ Inspection on the dataset's structure, summary statistics, cleanliness, and dime
 
 ## Key Findings
 1. Cessna, Piper, and Boeing are some of the most common low-risk aircraft.
-![Low-Risk Aircrafts](low_risk_aircrafts.png)
+![Low-Risk Aircrafts](Visualization_Images/low_risk_aircrafts.png)
 
 2. There has been a steady decrease in aviation accidents over the years
 ![Trend of Aviation Accidents Over the Years](trend_of_accidents.png)
